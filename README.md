@@ -1,5 +1,4 @@
-# SQLITE-Merger
-A simple python script to merge the data and tables of two sqlite .db files.
+#Malopieds To Outertune
 
 This was made to combat a tough yet annoying issue I, and many others, have.
 
