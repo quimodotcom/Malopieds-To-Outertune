@@ -12,4 +12,5 @@ Malopieds had various extra features compared to the original Innertune and ther
 The problem now was backing up your Malopieds backup file and restoring it on Outertune wasn't supported due to the difference in SQLite database table structures.
 
 This script will basically transplant all data from the Malopieds backup, straight to a Outertune backup. 
+
 Run the main.py, select the Malopieds backup file first and a empty Outertune backup file second. Then transfer the newly updated Outertune backup back to your phone and enjoy!
