@@ -13,4 +13,4 @@ The problem now was backing up your Malopieds backup file and restoring it on Ou
 
 This script will basically transplant all data from the Malopieds backup, straight to a Outertune backup. 
 
-Run the main.py, select the Malopieds backup file first and a empty Outertune backup file second. Then transfer the newly updated Outertune backup back to your phone and enjoy!
+Run the main.py, select the Malopieds backup file. The script will then take a empty Outertune backup file and update it with your data. Then transfer the newly updated Outertune backup back to your phone and enjoy!
